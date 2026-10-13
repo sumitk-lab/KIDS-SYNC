@@ -1,0 +1,10 @@
+[
+  "tests/test_api_smoke.py::test_full_phase1_workflow",
+  "tests/test_api_smoke.py::test_health_check",
+  "tests/test_matching_ml.py::test_autonomous_matching_and_trust_api",
+  "tests/test_matching_ml.py::test_dynamic_trust_engine_platinum",
+  "tests/test_matching_ml.py::test_dynamic_trust_engine_probationary",
+  "tests/test_matching_ml.py::test_dynamic_trust_safety_penalty",
+  "tests/test_matching_ml.py::test_pytorch_two_tower_model_forward",
+  "tests/test_phase3_realtime_backup.py::test_phase3_telemetry_nlp_summary_and_backup_fallback"
+]
